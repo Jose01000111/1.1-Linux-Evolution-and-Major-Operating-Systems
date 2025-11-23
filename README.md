@@ -13,6 +13,23 @@
 
 ---
 
+### ⭐ **Embedded Systems**
+- Lightweight Linux for **IoT, routers, Raspberry Pi**.
+- Uses reduced kernels + minimal packages.
+- Designed for low-power CPUs & limited RAM.
+- Examples: **Raspberry Pi OS, Android, OpenWrt**.
+
+---
+
+### ⭐ **Linux in the Cloud**
+- Linux dominates cloud workloads.
+- Used for **virtualization hosts, containers, cloud VMs**.
+- Common cloud distros: **Ubuntu LTS, Amazon Linux, Red Hat, SUSE**.
+- Concepts: **instances, images, snapshots, scaling**.
+- Remote admin via **SSH 🔐**.
+
+---
+
 ### 🐧 **Debian Family**
 - **Debian**: Stable, slow-release, community-supported, APT-based. Popular for servers and predictable environments  
 - **Ubuntu**: Debian-based, very common for desktops & cloud. LTS = 5-year support, widely used in production  
